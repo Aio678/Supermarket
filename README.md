@@ -10,10 +10,10 @@ iszuo
 
 #### 开发环境
 
-c#
-SqlServer2019
++ c#
++ SqlServer2019
 
 #### 使用工具
 
-Visual Studio 2019
-Microsoft SQL Server Management Studio 18
++ Visual Studio 2019
++ Microsoft SQL Server Management Studio 18
