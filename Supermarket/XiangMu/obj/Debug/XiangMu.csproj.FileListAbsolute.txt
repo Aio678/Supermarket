@@ -1,0 +1,76 @@
+E:\vs2019\repos\XiangMu1\XiangMu\bin\Debug\XiangMu.exe.config
+E:\vs2019\repos\XiangMu1\XiangMu\bin\Debug\XiangMu.exe
+E:\vs2019\repos\XiangMu1\XiangMu\bin\Debug\XiangMu.pdb
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.csprojAssemblyReference.cache
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.Properties.Resources.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.csproj.GenerateResource.cache
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.csproj.CoreCompileInputs.cache
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.exe
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.pdb
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.guanlixitong.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.denglu.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.huiyuanguanli.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.jinhuoguanli.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.kucunchaxun.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.xiaoshou.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.xiaoshoumingxi.resources
+E:\vs2019\repos\XiangMu1\XiangMu\obj\Debug\XiangMu.zhuce.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\bin\Debug\XiangMu.exe.config
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\bin\Debug\XiangMu.exe
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\bin\Debug\XiangMu.pdb
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.csprojAssemblyReference.cache
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.denglu.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.guanlixitong.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.huiyuanguanli.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.jinhuoguanli.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.kucunchaxun.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.Properties.Resources.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.xiaoshou.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.xiaoshoumingxi.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.zhuce.resources
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.csproj.GenerateResource.cache
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.csproj.CoreCompileInputs.cache
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.exe
+D:\Users\Oxygen\Desktop\XiangMu1\XiangMu1\XiangMu\obj\Debug\XiangMu.pdb
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\bin\Debug\XiangMu.exe.config
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\bin\Debug\XiangMu.exe
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\bin\Debug\XiangMu.pdb
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.denglu.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.guanlixitong.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.huiyuanguanli.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.jinhuoguanli.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.kucunchaxun.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.Properties.Resources.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.xiaoshoumingxi.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.zhuce.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.csproj.GenerateResource.cache
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.csproj.CoreCompileInputs.cache
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.exe
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.pdb
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.XiaoShouGuanLi.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.HYupdata.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.JHupdata.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.KCupdata.resources
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.csproj.AssemblyReference.cache
+D:\Users\Oxygen\Desktop\卓越项目\程序\XiangMu\obj\Debug\XiangMu.Mm.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\bin\Debug\XiangMu.exe.config
+D:\Desktop\3组 (2)\3组\程序\XiangMu\bin\Debug\XiangMu.exe
+D:\Desktop\3组 (2)\3组\程序\XiangMu\bin\Debug\XiangMu.pdb
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.csprojAssemblyReference.cache
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.DengLu.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.Mm.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.guanlixitong.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.HuiYuanGuanLi.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.HYupdata.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.JHupdata.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.JinHuoGuanLi.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.KCupdata.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.KuCunChaXun.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.Properties.Resources.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.XiaoShouGuanLi.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.XiaoShouMingXi.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.ZhuCe.resources
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.csproj.GenerateResource.cache
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.csproj.CoreCompileInputs.cache
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.exe
+D:\Desktop\3组 (2)\3组\程序\XiangMu\obj\Debug\XiangMu.pdb
