@@ -6,14 +6,14 @@
 
 #### 开发人员
 
-+ zsl
++ xh
 
 #### 开发环境
 
 + c#
-+ SqlServer2019
++ SqlServer2022
 
 #### 使用工具
 
-+ Visual Studio 2019
++ Visual Studio 2022
 + Microsoft SQL Server Management Studio 18
